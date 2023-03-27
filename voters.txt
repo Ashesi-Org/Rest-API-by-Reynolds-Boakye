@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Reynolds",
+    "id": 70972024,
+    "Course": "CS",
+    "residence": "On-campus",
+    "class": 2025
+  },
+  {
+    "name": "Cailie",
+    "id": 10972024,
+    "Course": "MIS",
+    "residence": "On-campus"
+  }
+]

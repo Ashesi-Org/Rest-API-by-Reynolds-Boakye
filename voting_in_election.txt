@@ -1,0 +1,10 @@
+[
+    {
+        "election_id": 1,
+        "voters": [
+            70972024,
+            10972024
+        ],
+        "total_voters": 2
+    }
+]
